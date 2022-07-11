@@ -31,7 +31,7 @@
     hash.js "1.1.7"
 
 "@project-serum/anchor@file:../../ts":
-  version "0.24.2"
+  version "0.25.0"
   dependencies:
     "@project-serum/borsh" "^0.2.5"
     "@solana/web3.js" "^1.36.0"
